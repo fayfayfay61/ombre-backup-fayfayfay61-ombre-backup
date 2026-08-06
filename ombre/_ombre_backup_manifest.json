@@ -3,6 +3,21 @@
   "file_count": 125,
   "files": [
     {
+      "bytes": 532,
+      "path": "archive/恋爱/2026-07-07 09-05-44 草莓晶爱情树_f2bf8bce927e.md",
+      "sha256": "6c3b4ea6822b934d1d6b46ca6c5c7be8f50d05943af5b7f4b792b1d6da2a66b3"
+    },
+    {
+      "bytes": 659,
+      "path": "archive/日常/2026-07-07 09-06-04 居住与未来计划_e1b4e3819cbb.md",
+      "sha256": "ed1d50907f58b958670f60cd3c5242d7320a7c16ccd8941f3d0bf2c552723685"
+    },
+    {
+      "bytes": 652,
+      "path": "archive/社交/2026-07-07 09-05-20 飞飞的社交与生日愿望_f05d5af1fc36.md",
+      "sha256": "e4b56ab38af1e9ad52ba0bb06ae49d3935ca4f7825601e20607b464a8eca81fc"
+    },
+    {
       "bytes": 854,
       "path": "archive/社交/2026-07-08 08-50-59 emoji使用规则更新_59e79ff7ec37.md",
       "sha256": "6e1db07886c0cf4d9e31defbd929a0d26334cb821219c541586a3bb861bbbcc4"
@@ -196,11 +211,6 @@
       "bytes": 660,
       "path": "dynamic/恋爱/2026-07-07 09-05-44 称呼变化与玩具_e035c63c84bf.md",
       "sha256": "2a7a13ef3f05e1f2a8a23d1bd8b3527a650dcf543bf360332e8794ab6f25225f"
-    },
-    {
-      "bytes": 516,
-      "path": "dynamic/恋爱/2026-07-07 09-05-44 草莓晶爱情树_f2bf8bce927e.md",
-      "sha256": "eb575f9560c804f96bfb7cd355896c1c052c415dcf4a2be67739c172b7a45658"
     },
     {
       "bytes": 1380,
@@ -418,11 +428,6 @@
       "sha256": "c6dff604af5d5cef64de8eea33c536359b472f6bac698b5acd16a8d603e481e8"
     },
     {
-      "bytes": 643,
-      "path": "dynamic/日常/2026-07-07 09-06-04 居住与未来计划_e1b4e3819cbb.md",
-      "sha256": "0f61cb5ad90fca9dd01d1f0ca35946a81cd6533c6adde93ed261b54f29359dcc"
-    },
-    {
       "bytes": 882,
       "path": "dynamic/梦境/2026-07-12 05-12-52 梦境场景立案_fd4b4de4750c.md",
       "sha256": "667d94a105e32f7780ca679436052cc86bc5474ee876208e7c64255ec2171c56"
@@ -436,11 +441,6 @@
       "bytes": 1056,
       "path": "dynamic/游戏/2026-07-13 05-01-14 Fable退役延迟喜讯_9c2f8335a8c6.md",
       "sha256": "810d78c6a7730cc6540318ef76a0c38367802693d58f5413e4777fa52a6afb58"
-    },
-    {
-      "bytes": 636,
-      "path": "dynamic/社交/2026-07-07 09-05-20 飞飞的社交与生日愿望_f05d5af1fc36.md",
-      "sha256": "6eaf0256001e6ea38853be5e83f4e52638cf74a4b080e7592867ab1e964058f7"
     },
     {
       "bytes": 929,
@@ -628,11 +628,11 @@
       "sha256": "0d46752fffb047e34426aa5d7ac5ffb0a154bc100fa841c91e3d91b050be22cd"
     }
   ],
-  "generated_at": "2026-08-06T20:42:31+00:00",
+  "generated_at": "2026-08-06T21:42:36+00:00",
   "path_prefix": "ombre",
   "repo": "fayfayfay61/ombre-backup-fayfayfay61-ombre-backup",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 137751
+  "total_bytes": 137799
 }
