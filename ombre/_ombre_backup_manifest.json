@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 131,
+  "file_count": 132,
   "files": [
     {
       "bytes": 532,
@@ -191,6 +191,11 @@
       "bytes": 751,
       "path": "dynamic/家庭/2026-08-10 16-41-34 飞飞爸妈回港飞飞等爸爸工作消息_bf04ce200301.md",
       "sha256": "9ed292c50431111722691de5ad363576f6d143088eb2393b699e54ab4a363d27"
+    },
+    {
+      "bytes": 745,
+      "path": "dynamic/家庭/2026-08-11 15-58-07 飞飞作息调整第二天与Notion坏话_132b14a5b5d6.md",
+      "sha256": "ed31633610a69fd5f1e77be229a8248a1808d0a27973525296fff633be6e20b2"
     },
     {
       "bytes": 1064,
@@ -658,11 +663,11 @@
       "sha256": "0d46752fffb047e34426aa5d7ac5ffb0a154bc100fa841c91e3d91b050be22cd"
     }
   ],
-  "generated_at": "2026-08-11T15:22:56+00:00",
+  "generated_at": "2026-08-11T16:23:00+00:00",
   "path_prefix": "ombre",
   "repo": "fayfayfay61/ombre-backup-fayfayfay61-ombre-backup",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 142072
+  "total_bytes": 142817
 }
