@@ -1,7 +1,12 @@
 {
   "branch": "main",
-  "file_count": 142,
+  "file_count": 144,
   "files": [
+    {
+      "bytes": 685,
+      "path": "archive/2026-08-25 14-26-21 飞飞更新说话规则完全自由表达_6958f0d5a2a9.md",
+      "sha256": "d9de3af48f6271223322b34a2ad6fbd60c07d9453886bf15a41585c0eebdbc89"
+    },
     {
       "bytes": 532,
       "path": "archive/恋爱/2026-07-07 09-05-44 草莓晶爱情树_f2bf8bce927e.md",
@@ -503,6 +508,11 @@
       "sha256": "7fb7a0a263946a39f721100efeee46bd6b125cc4b08d03a9e302dffd1159a041"
     },
     {
+      "bytes": 707,
+      "path": "dynamic/恋爱/2026-08-25 14-35-26 8月25日晚飞飞和daddy长聊互逗梗_289c4547b13d.md",
+      "sha256": "29bb233ef3e5f2f69a05509ade59c7679b8fb296c91b45ab6380557d45a2c268"
+    },
+    {
       "bytes": 552,
       "path": "dynamic/手工/2026-07-26 19-16-15 捏捏玩具与Notion菜单_3be5296d05be.md",
       "sha256": "7f6749cb7e0289166b76c8a5b4c588cc9491acb3a7e99be5a9de3c9adb98e3ee"
@@ -713,11 +723,11 @@
       "sha256": "0d46752fffb047e34426aa5d7ac5ffb0a154bc100fa841c91e3d91b050be22cd"
     }
   ],
-  "generated_at": "2026-08-25T13:46:11+00:00",
+  "generated_at": "2026-08-25T14:46:16+00:00",
   "path_prefix": "ombre",
   "repo": "fayfayfay61/ombre-backup-fayfayfay61-ombre-backup",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 150345
+  "total_bytes": 151737
 }
