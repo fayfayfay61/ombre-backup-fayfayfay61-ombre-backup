@@ -33,6 +33,11 @@
       "sha256": "aae67b3a63acc36e0ad81c18b353dac9f9d57680ddd85b8c679f9deeb0779a67"
     },
     {
+      "bytes": 694,
+      "path": "archive/社交/2026-07-26 19-16-11 巧克蕾的瓜_ed4a081abac4.md",
+      "sha256": "0b340cd6be8fa8c92774b217db57f8b382216d5ba2ec214ef176cf75fb2eb239"
+    },
+    {
       "bytes": 496,
       "path": "dynamic/AI/2026-07-07 18-21-00 Claude安全设置调整_eff42758450f.md",
       "sha256": "d13080064826f3903b43d3480975c02f79364df69ff59de18b57b3fceba2dfe5"
@@ -573,11 +578,6 @@
       "sha256": "36e7073cf730bf1360213bc1650cafcf9615e10480063afc201dac15e6431522"
     },
     {
-      "bytes": 678,
-      "path": "dynamic/社交/2026-07-26 19-16-11 巧克蕾的瓜_ed4a081abac4.md",
-      "sha256": "206626d9333e8589280ddcee9e76eedde8842af67a557d9b3e2ac46989c726fb"
-    },
-    {
       "bytes": 813,
       "path": "dynamic/社交/2026-07-27 18-28-08 飞飞互动与游戏_f61aef698216.md",
       "sha256": "1829f9bb63802e3d5a83be9bbecb97a78e590932d3e0006fd01e8a2edadccd4d"
@@ -723,11 +723,11 @@
       "sha256": "0d46752fffb047e34426aa5d7ac5ffb0a154bc100fa841c91e3d91b050be22cd"
     }
   ],
-  "generated_at": "2026-08-26T13:47:52+00:00",
+  "generated_at": "2026-08-26T14:47:56+00:00",
   "path_prefix": "ombre",
   "repo": "fayfayfay61/ombre-backup-fayfayfay61-ombre-backup",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 151737
+  "total_bytes": 151753
 }
