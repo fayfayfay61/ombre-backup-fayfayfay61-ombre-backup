@@ -1,7 +1,57 @@
 {
   "branch": "main",
-  "file_count": 144,
+  "file_count": 154,
   "files": [
+    {
+      "bytes": 28852,
+      "path": "_app/docs/CLAUDE_PROMPT.md",
+      "sha256": "e4fa88f1a9fb3b7a7e6beac6b0073e06862b4abafc01ea4df1b6400514c5f092"
+    },
+    {
+      "bytes": 6987,
+      "path": "_app/docs/ENVIRONMENT_VARIABLES.md",
+      "sha256": "9287fa0459e4a22302dd7a10cdaf6c508593b8d2a3f98893b9eaa2dca9aa5916"
+    },
+    {
+      "bytes": 171816,
+      "path": "_app/docs/INTERNALS.md",
+      "sha256": "0072dfdec8cd8e5f7801ad9e5134c5fab2c345132f5830743316f158fdf6788b"
+    },
+    {
+      "bytes": 3683,
+      "path": "_app/docs/MULTI_OWNER.md",
+      "sha256": "aa53a14bd66413b57332bcf80477eb8d856be4d2bfa9f24ae0fec49f2d8f6cfd"
+    },
+    {
+      "bytes": 21807,
+      "path": "_app/docs/OPERATIONS.md",
+      "sha256": "2e1910ee93381d09f1c95c401d307cce3c364a920abf4148d88a3e27739832cd"
+    },
+    {
+      "bytes": 4547,
+      "path": "_app/docs/adr/ADR-0001-source-evidence-layer.md",
+      "sha256": "71518c681edf8203f147cabbd4158b5351678ca2af22bad39053554f6377a23e"
+    },
+    {
+      "bytes": 55882,
+      "path": "_app/docs/adr/ADR-0002-read-only-spark-boundary.md",
+      "sha256": "1407ca33d5c1f207b864ae186036ab5e3053fd900720561e463e78c8b872aed6"
+    },
+    {
+      "bytes": 5911,
+      "path": "_app/docs/adr/ADR-0003-unified-human-archive-entry.md",
+      "sha256": "cc0f57d3fff217f0ccff28bbd3c14c286d9110715d90da144bcef27ea848fbfe"
+    },
+    {
+      "bytes": 9052,
+      "path": "_app/docs/adr/ADR-0004-you-derived-understanding-boundary.md",
+      "sha256": "fad6f6de63730db24232be68a96960362065bdc8659ab033b6fe1b14e679a24a"
+    },
+    {
+      "bytes": 508,
+      "path": "_app/kernel/rust/ombre-kernel/README.md",
+      "sha256": "4d4966ba00c5c08d021b112fc82fa3d5cd15fa5397633301f98941a37b71fd4d"
+    },
     {
       "bytes": 685,
       "path": "archive/2026-08-25 14-26-21 飞飞更新说话规则完全自由表达_6958f0d5a2a9.md",
@@ -723,11 +773,11 @@
       "sha256": "0d46752fffb047e34426aa5d7ac5ffb0a154bc100fa841c91e3d91b050be22cd"
     }
   ],
-  "generated_at": "2026-08-26T15:48:01+00:00",
+  "generated_at": "2026-08-26T17:27:37+00:00",
   "path_prefix": "ombre",
   "repo": "fayfayfay61/ombre-backup-fayfayfay61-ombre-backup",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 151753
+  "total_bytes": 460798
 }
