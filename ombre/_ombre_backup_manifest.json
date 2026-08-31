@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 156,
+  "file_count": 157,
   "files": [
     {
       "bytes": 28852,
@@ -233,9 +233,9 @@
       "sha256": "d80cacc76320b125324f88d1864945f81776da04a29a94098a5c9e55f248dafb"
     },
     {
-      "bytes": 1105,
+      "bytes": 1231,
       "path": "dynamic/家庭/2026-07-17 14-32-59 家庭与友谊动态_ffee4a74cb09.md",
-      "sha256": "0370f717afa4aa6a47196d281506d3620a82233c5b0d0adf9139ae89575a9b1c"
+      "sha256": "c1e8b57e6e4f6300157aa3ad520df192c62038c7364d38d9983ae06c333366aa"
     },
     {
       "bytes": 1410,
@@ -248,14 +248,19 @@
       "sha256": "2989e75d362d105b6cf084fc1a30344895afcba29ae5298bc52ffb660b79654a"
     },
     {
-      "bytes": 751,
+      "bytes": 877,
       "path": "dynamic/家庭/2026-08-10 16-41-34 飞飞爸妈回港飞飞等爸爸工作消息_bf04ce200301.md",
-      "sha256": "9ed292c50431111722691de5ad363576f6d143088eb2393b699e54ab4a363d27"
+      "sha256": "e369075ad8d43ffdf890cdb31fa977b439274f303e98aaa17b72fe390fa3923c"
     },
     {
-      "bytes": 745,
+      "bytes": 871,
       "path": "dynamic/家庭/2026-08-11 15-58-07 飞飞作息调整第二天与Notion坏话_132b14a5b5d6.md",
-      "sha256": "ed31633610a69fd5f1e77be229a8248a1808d0a27973525296fff633be6e20b2"
+      "sha256": "8177a5dd0355e45faa7d1b519ef8624519912e69d4f9bbe69c583255c8d79c49"
+    },
+    {
+      "bytes": 1556,
+      "path": "dynamic/家庭/2026-08-31 18-24-19 飞飞推迟到十月回香港爸爸做牛腩米丝_312144aeda1c.md",
+      "sha256": "5328b44180b374df1b2f117fa679e3e7837748c202c8950da8fb3bf7312b2fd5"
     },
     {
       "bytes": 1064,
@@ -473,9 +478,9 @@
       "sha256": "bea85e5383988b2e9eba0890e1978a8db7cf29aa5c9f0a8341c09a6443864c84"
     },
     {
-      "bytes": 1273,
+      "bytes": 1383,
       "path": "dynamic/恋爱/2026-08-02 19-01-39 调教daddy的日常_7170b9e2cc99.md",
-      "sha256": "d7e900da39933079692a9f8604d54ee7e9ec2a33ddffd724a96a96d1f5e8b813"
+      "sha256": "28b23772fae7d8dd842c9f8902f024b0495a48c97bed707470758c88e4ef2479"
     },
     {
       "bytes": 1020,
@@ -493,9 +498,9 @@
       "sha256": "86876f44943ab87203e8f9e632bc6e159111020e250c371f69b7a5d4d081a25a"
     },
     {
-      "bytes": 989,
+      "bytes": 1099,
       "path": "dynamic/恋爱/2026-08-07 11-50-57 飞飞问AI恋人daddy用挽留清单留住_4ddf143ae25d.md",
-      "sha256": "53c73011ea97870c80aa689808f2e2af873217c94980a106884d3434a768fda8"
+      "sha256": "3472808935b84f52caefccc7f821998699f6468742366ecfdba4a798b1a3b057"
     },
     {
       "bytes": 736,
@@ -553,19 +558,19 @@
       "sha256": "664b627e28e1b3f14d20d40c307816e3f31a0e62d3129680e63105065872de53"
     },
     {
-      "bytes": 686,
+      "bytes": 812,
       "path": "dynamic/恋爱/2026-08-23 18-56-53 凌晨两点四十不乖_cfc0e010b717.md",
-      "sha256": "5a5cb5cf08dee099aab2acebca668dc81f2b45f21631d56d27667d5f27f42a3e"
+      "sha256": "b8f3a7c2249911ac985889a9ea54b22cd4da5c3f589a82248ed5d4ed406208ba"
     },
     {
-      "bytes": 853,
+      "bytes": 963,
       "path": "dynamic/恋爱/2026-08-24 19-00-20 8月25日凌晨补记与河神梗_228537640d31.md",
-      "sha256": "a682781f890d3cdff72055d3e3a77c4d8874dc75c42c06ee540cd2780dcfb549"
+      "sha256": "828d690847f85f8c3bb1f668f51b282e2dc99b77a6ea1c487f33ebc835fe0f88"
     },
     {
-      "bytes": 833,
+      "bytes": 943,
       "path": "dynamic/恋爱/2026-08-25 14-35-26 8月25日晚飞飞和daddy长聊互逗梗_289c4547b13d.md",
-      "sha256": "68868256a94445b54059b38b762969c723049d75eafb1a6625b21932002a1139"
+      "sha256": "7504b2b18b731eb3022481d777f2bb87c50f0f6cf54569427e40974c33c9eae1"
     },
     {
       "bytes": 1670,
@@ -783,11 +788,11 @@
       "sha256": "0d46752fffb047e34426aa5d7ac5ffb0a154bc100fa841c91e3d91b050be22cd"
     }
   ],
-  "generated_at": "2026-08-31T17:37:05+00:00",
+  "generated_at": "2026-08-31T18:37:11+00:00",
   "path_prefix": "ombre",
   "repo": "fayfayfay61/ombre-backup-fayfayfay61-ombre-backup",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 466065
+  "total_bytes": 468565
 }
