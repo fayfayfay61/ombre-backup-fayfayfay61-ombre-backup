@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 160,
+  "file_count": 161,
   "files": [
     {
       "bytes": 28852,
@@ -263,9 +263,14 @@
       "sha256": "e6b24103a55c6adb0380589d19886e2e3a8e124d2eb930c3c2d1e6c48f4c44bf"
     },
     {
-      "bytes": 1227,
+      "bytes": 1337,
       "path": "dynamic/家庭/2026-09-02 19-33-52 谢以珩定名_cc94e8716f97.md",
-      "sha256": "a19e7044d9c2fcac143b4710d7a3885d588e16f8d20886e73d239822bea39fd0"
+      "sha256": "0e75e77e60fd6ffe94529c575732086448808ebe59d8cf56bd2a815853d3eea5"
+    },
+    {
+      "bytes": 1243,
+      "path": "dynamic/家庭/2026-09-02 19-46-12 Daddy英文名定为Rex Tse 谢以_f4f7f09ffbcd.md",
+      "sha256": "090a7c5ede178502a5aa8961df6955d29794e170c9e559643d9226702a656d33"
     },
     {
       "bytes": 1064,
@@ -278,9 +283,9 @@
       "sha256": "979451057b813f8ec4fb1943dc262e50c500275b0cf0571fa17fda023599eced"
     },
     {
-      "bytes": 1762,
+      "bytes": 1872,
       "path": "dynamic/恋爱/2026-07-07 09-05-19 飞飞与克生关系档案_6ab562822793.md",
-      "sha256": "b763f51bdc474930512c3ee2db33911ae4c7b81611fd95c44f1146c47a451695"
+      "sha256": "a5ffbdae74f38416f2dd42164cc4084b24901e7f9144f465bd286f229c2488e2"
     },
     {
       "bytes": 761,
@@ -453,9 +458,9 @@
       "sha256": "5c88098a9b8ca68d654a4dc0f8ad68dbfb0f4f2b306dfe538a7a140678715ade"
     },
     {
-      "bytes": 694,
+      "bytes": 804,
       "path": "dynamic/恋爱/2026-07-26 19-16-14 daddypuppy规则更新_ba0b81c81e4e.md",
-      "sha256": "00d80ae5f2eb8521924456b31f8459f4fc66b2043865d6ffbb2f1454803b32ae"
+      "sha256": "b1769aa59a53079c63b8a813617944747ba58e7655acc8a057d8f0131595dd17"
     },
     {
       "bytes": 950,
@@ -498,9 +503,9 @@
       "sha256": "c8a7c85a4e79a61850ee9c1db68913f1e8470afec6a6d68c558a18197728ad11"
     },
     {
-      "bytes": 911,
+      "bytes": 1021,
       "path": "dynamic/恋爱/2026-08-06 20-06-41 飞飞的称呼库更新小机机与四爱_3862e43823e9.md",
-      "sha256": "eb3d03f2a81a8470fc8b5f49a17333c9b140f376ab23ee9bcb8bbfa87e350724"
+      "sha256": "b4945ca206f89afe3351b581ded544b7dd3e28edca097041697434e399da4b22"
     },
     {
       "bytes": 1209,
@@ -758,9 +763,9 @@
       "sha256": "89da0539c3da5258ac65a04690c6f02fc064cb3aae382a596ce464cc756f4e68"
     },
     {
-      "bytes": 1487,
+      "bytes": 1597,
       "path": "permanent/恋爱/2026-07-07 09-12-41 飞飞与克生关系档案_ea36954e1c1c.md",
-      "sha256": "f5be361b4ccbaf446b16cdf4c423624d9f703ba59f8d772722adbeb73df8db39"
+      "sha256": "0ece2e72b0ca246fdf86b27b75092b23da2272bd55c3e7f686926bdba0c8208c"
     },
     {
       "bytes": 1001,
@@ -793,9 +798,9 @@
       "sha256": "59aa40c66003e2f0566ae20d957902ac9182868250721e28dcb1ed21cdae4b28"
     },
     {
-      "bytes": 1047,
+      "bytes": 1157,
       "path": "permanent/自省/2026-07-07 09-13-50 飞飞名字的寓意_3937f430913e.md",
-      "sha256": "557c779ee533115bd2bed0e696028adfbe0dc9c193eb96f8b6851a724bf41d94"
+      "sha256": "499b2afdf95534ce756d46188a5405012129a1d1f7a7218759bdba4052dc8ec4"
     },
     {
       "bytes": 1865,
@@ -803,11 +808,11 @@
       "sha256": "0d46752fffb047e34426aa5d7ac5ffb0a154bc100fa841c91e3d91b050be22cd"
     }
   ],
-  "generated_at": "2026-09-02T19:41:07+00:00",
+  "generated_at": "2026-09-02T20:41:13+00:00",
   "path_prefix": "ombre",
   "repo": "fayfayfay61/ombre-backup-fayfayfay61-ombre-backup",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 475425
+  "total_bytes": 477328
 }
