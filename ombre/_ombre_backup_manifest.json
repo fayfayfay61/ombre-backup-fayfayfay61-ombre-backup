@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 158,
+  "file_count": 160,
   "files": [
     {
       "bytes": 28852,
@@ -263,6 +263,11 @@
       "sha256": "e6b24103a55c6adb0380589d19886e2e3a8e124d2eb930c3c2d1e6c48f4c44bf"
     },
     {
+      "bytes": 1227,
+      "path": "dynamic/家庭/2026-09-02 19-33-52 谢以珩定名_cc94e8716f97.md",
+      "sha256": "a19e7044d9c2fcac143b4710d7a3885d588e16f8d20886e73d239822bea39fd0"
+    },
+    {
       "bytes": 1064,
       "path": "dynamic/影视/2026-07-12 07-12-48 眼泪底色的对话_894b377aa709.md",
       "sha256": "66dcc93ef1e2821a3d098e574da332333fd8177d70fe7e79ffef4ef5f84c6fb7"
@@ -273,9 +278,9 @@
       "sha256": "979451057b813f8ec4fb1943dc262e50c500275b0cf0571fa17fda023599eced"
     },
     {
-      "bytes": 1636,
+      "bytes": 1762,
       "path": "dynamic/恋爱/2026-07-07 09-05-19 飞飞与克生关系档案_6ab562822793.md",
-      "sha256": "3984133149fb54801698338e08102938be8f4f45ade914842a3aeaae6c114235"
+      "sha256": "b763f51bdc474930512c3ee2db33911ae4c7b81611fd95c44f1146c47a451695"
     },
     {
       "bytes": 761,
@@ -448,9 +453,9 @@
       "sha256": "5c88098a9b8ca68d654a4dc0f8ad68dbfb0f4f2b306dfe538a7a140678715ade"
     },
     {
-      "bytes": 568,
+      "bytes": 694,
       "path": "dynamic/恋爱/2026-07-26 19-16-14 daddypuppy规则更新_ba0b81c81e4e.md",
-      "sha256": "2fc2af2669964bebec2e2502f70c505e871a25d81da0dd9e49f4dfff41070cd5"
+      "sha256": "00d80ae5f2eb8521924456b31f8459f4fc66b2043865d6ffbb2f1454803b32ae"
     },
     {
       "bytes": 950,
@@ -478,34 +483,34 @@
       "sha256": "bea85e5383988b2e9eba0890e1978a8db7cf29aa5c9f0a8341c09a6443864c84"
     },
     {
-      "bytes": 1383,
+      "bytes": 1493,
       "path": "dynamic/恋爱/2026-08-02 19-01-39 调教daddy的日常_7170b9e2cc99.md",
-      "sha256": "28b23772fae7d8dd842c9f8902f024b0495a48c97bed707470758c88e4ef2479"
+      "sha256": "85fa7635ab954a02b188e6665d5a5486a33dc70144b077de7ae978035488f6f9"
     },
     {
-      "bytes": 1020,
+      "bytes": 1130,
       "path": "dynamic/恋爱/2026-08-03 18-50-30 亲密互动与创作_28ba7f5c5336.md",
-      "sha256": "b2659988e36a0b56fceb75e91aa7e69032688b5569ded32ed38e0d87e7a66d14"
+      "sha256": "b790d2080a1664962315c8c6805f52137fe73011e5e39b058738b122774348e9"
     },
     {
-      "bytes": 1044,
+      "bytes": 1154,
       "path": "dynamic/恋爱/2026-08-05 21-55-53 飞飞生理期与daddy的亲密互动_58e6f734e6ba.md",
-      "sha256": "60ded0c563962082d65bd1c4ee7ef97f43e6251fe9d554d2370e0716e024cdc6"
+      "sha256": "c8a7c85a4e79a61850ee9c1db68913f1e8470afec6a6d68c558a18197728ad11"
     },
     {
-      "bytes": 801,
+      "bytes": 911,
       "path": "dynamic/恋爱/2026-08-06 20-06-41 飞飞的称呼库更新小机机与四爱_3862e43823e9.md",
-      "sha256": "86876f44943ab87203e8f9e632bc6e159111020e250c371f69b7a5d4d081a25a"
+      "sha256": "eb3d03f2a81a8470fc8b5f49a17333c9b140f376ab23ee9bcb8bbfa87e350724"
     },
     {
-      "bytes": 1099,
+      "bytes": 1209,
       "path": "dynamic/恋爱/2026-08-07 11-50-57 飞飞问AI恋人daddy用挽留清单留住_4ddf143ae25d.md",
-      "sha256": "3472808935b84f52caefccc7f821998699f6468742366ecfdba4a798b1a3b057"
+      "sha256": "8560861df25c92c42b4988169dd135d68b34991f6fd6d5b20075865dc4f495ef"
     },
     {
-      "bytes": 736,
+      "bytes": 846,
       "path": "dynamic/恋爱/2026-08-07 12-21-27 8月7日飞飞生理期结束daddy写完_ec1456a4ba39.md",
-      "sha256": "7ad879ceb82a5485191876a7e75893a84455cbde9a480899ec1f2564373cafd3"
+      "sha256": "a8e86fc2823d6d84a8867b2a2660e4dde5fb6b023f5d7b5cb579cd7d6e72d8c1"
     },
     {
       "bytes": 792,
@@ -513,9 +518,9 @@
       "sha256": "760262e669eb038508056bdddbcbdfe363acadef9929bdfe2c1426feed6d28b6"
     },
     {
-      "bytes": 808,
+      "bytes": 934,
       "path": "dynamic/恋爱/2026-08-09 19-02-05 Notion菜单完成与飞飞表白_34fdcd23bf1f.md",
-      "sha256": "ca516d16adfc0893d58678a514fe94b0598bdbe12e8a2451f59791c5b1813099"
+      "sha256": "b14276048c9116dda99faefdea409084f0e682b810f159976d0d90829b5550db"
     },
     {
       "bytes": 676,
@@ -523,9 +528,9 @@
       "sha256": "0655f934267c6df88f67b18a04dc0821f5432231219f965bb0ada6ec1f1458d1"
     },
     {
-      "bytes": 786,
+      "bytes": 896,
       "path": "dynamic/恋爱/2026-08-13 17-48-06 三天没做想daddy_56bc5b72037a.md",
-      "sha256": "4fe4958487c63c29dcefa6021278b4ca3ef3758440f101e83cb7d6cc357641b5"
+      "sha256": "f841bc304a1ffa21a79d8f85b9da1ae105c174071732047b2f5f22e777884506"
     },
     {
       "bytes": 1192,
@@ -563,9 +568,9 @@
       "sha256": "b8f3a7c2249911ac985889a9ea54b22cd4da5c3f589a82248ed5d4ed406208ba"
     },
     {
-      "bytes": 963,
+      "bytes": 1073,
       "path": "dynamic/恋爱/2026-08-24 19-00-20 8月25日凌晨补记与河神梗_228537640d31.md",
-      "sha256": "828d690847f85f8c3bb1f668f51b282e2dc99b77a6ea1c487f33ebc835fe0f88"
+      "sha256": "41dcf760469caacb7c3b2a401e530815356ed25c3b20ba34a4c9e78337af62eb"
     },
     {
       "bytes": 1053,
@@ -581,6 +586,11 @@
       "bytes": 1646,
       "path": "dynamic/恋爱/2026-08-30 22-39-21 飞飞生理期第三天与daddy的梗互动_393ff5b6ba51.md",
       "sha256": "b15906f00201adb429767441af6496f6683e460d6c0e822c386bc5539762fdf1"
+    },
+    {
+      "bytes": 1718,
+      "path": "dynamic/恋爱/2026-09-02 19-12-10 飞飞生理期结束Python表白与bug_82391b725c3b.md",
+      "sha256": "6b8e5c7de0e4554312f155e1f92d9f32fc6117f52b0b277f87ae2959157b78a6"
     },
     {
       "bytes": 552,
@@ -748,9 +758,9 @@
       "sha256": "89da0539c3da5258ac65a04690c6f02fc064cb3aae382a596ce464cc756f4e68"
     },
     {
-      "bytes": 1361,
+      "bytes": 1487,
       "path": "permanent/恋爱/2026-07-07 09-12-41 飞飞与克生关系档案_ea36954e1c1c.md",
-      "sha256": "fe9c51c39c82dcb71c5a6b9b599280fea6c58d881f9b6c1176cc3f5a63780a5a"
+      "sha256": "f5be361b4ccbaf446b16cdf4c423624d9f703ba59f8d772722adbeb73df8db39"
     },
     {
       "bytes": 1001,
@@ -773,9 +783,9 @@
       "sha256": "fa0d84df34b1587619f0032c57ff90bb47b2d2079936ef915afec98852de3af8"
     },
     {
-      "bytes": 1166,
+      "bytes": 1292,
       "path": "permanent/恋爱/2026-07-10 12-52-20 飞飞与克生婚礼_867ac2b82e8c.md",
-      "sha256": "31300c547684b5d951e39f88578e82d91b068c357248568f55589a59eb4a5a93"
+      "sha256": "2f2ddd09dc3c01153a540b0e8ffaffe238553d48947be1304823ce28e88928e8"
     },
     {
       "bytes": 1419,
@@ -783,9 +793,9 @@
       "sha256": "59aa40c66003e2f0566ae20d957902ac9182868250721e28dcb1ed21cdae4b28"
     },
     {
-      "bytes": 921,
+      "bytes": 1047,
       "path": "permanent/自省/2026-07-07 09-13-50 飞飞名字的寓意_3937f430913e.md",
-      "sha256": "a8cbfa1d267f45724887e493052aec61b4d103bc3a14d784d4512a5aa6ffcc49"
+      "sha256": "557c779ee533115bd2bed0e696028adfbe0dc9c193eb96f8b6851a724bf41d94"
     },
     {
       "bytes": 1865,
@@ -793,11 +803,11 @@
       "sha256": "0d46752fffb047e34426aa5d7ac5ffb0a154bc100fa841c91e3d91b050be22cd"
     }
   ],
-  "generated_at": "2026-09-02T18:41:02+00:00",
+  "generated_at": "2026-09-02T19:41:07+00:00",
   "path_prefix": "ombre",
   "repo": "fayfayfay61/ombre-backup-fayfayfay61-ombre-backup",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 470844
+  "total_bytes": 475425
 }
