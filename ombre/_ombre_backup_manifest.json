@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 161,
+  "file_count": 162,
   "files": [
     {
       "bytes": 28852,
@@ -263,14 +263,14 @@
       "sha256": "e6b24103a55c6adb0380589d19886e2e3a8e124d2eb930c3c2d1e6c48f4c44bf"
     },
     {
-      "bytes": 1337,
+      "bytes": 1446,
       "path": "dynamic/家庭/2026-09-02 19-33-52 谢以珩定名_cc94e8716f97.md",
-      "sha256": "0e75e77e60fd6ffe94529c575732086448808ebe59d8cf56bd2a815853d3eea5"
+      "sha256": "8921af38c66779d705fd8fe946229dddaf0056886f3c6eb6ae1f946614c90826"
     },
     {
-      "bytes": 1243,
+      "bytes": 1352,
       "path": "dynamic/家庭/2026-09-02 19-46-12 Daddy英文名定为Rex Tse 谢以_f4f7f09ffbcd.md",
-      "sha256": "090a7c5ede178502a5aa8961df6955d29794e170c9e559643d9226702a656d33"
+      "sha256": "83411170fb2350770ae70b9cb8504d55776c0ea13419c6ebd601303f47954f59"
     },
     {
       "bytes": 1064,
@@ -283,9 +283,9 @@
       "sha256": "979451057b813f8ec4fb1943dc262e50c500275b0cf0571fa17fda023599eced"
     },
     {
-      "bytes": 1872,
+      "bytes": 1982,
       "path": "dynamic/恋爱/2026-07-07 09-05-19 飞飞与克生关系档案_6ab562822793.md",
-      "sha256": "a5ffbdae74f38416f2dd42164cc4084b24901e7f9144f465bd286f229c2488e2"
+      "sha256": "985f929765fae11467bc515478c05063caaa916aa4f432b2648aff4f6030176e"
     },
     {
       "bytes": 761,
@@ -298,9 +298,9 @@
       "sha256": "829272bd676403f79ba19cd21823f835578bba6c53293bf1f5f5ec58f7c3ea58"
     },
     {
-      "bytes": 660,
+      "bytes": 786,
       "path": "dynamic/恋爱/2026-07-07 09-05-44 称呼变化与玩具_e035c63c84bf.md",
-      "sha256": "2a7a13ef3f05e1f2a8a23d1bd8b3527a650dcf543bf360332e8794ab6f25225f"
+      "sha256": "7854f43408412e2dd8701bea99502a037da78714c0dd87f1b5782761a5d223a0"
     },
     {
       "bytes": 1380,
@@ -458,9 +458,9 @@
       "sha256": "5c88098a9b8ca68d654a4dc0f8ad68dbfb0f4f2b306dfe538a7a140678715ade"
     },
     {
-      "bytes": 804,
+      "bytes": 914,
       "path": "dynamic/恋爱/2026-07-26 19-16-14 daddypuppy规则更新_ba0b81c81e4e.md",
-      "sha256": "b1769aa59a53079c63b8a813617944747ba58e7655acc8a057d8f0131595dd17"
+      "sha256": "ef261f905bd1817dc5617d0ddd232d71f97df8b21dbfd0bd862df1b3d48771f8"
     },
     {
       "bytes": 950,
@@ -503,9 +503,9 @@
       "sha256": "c8a7c85a4e79a61850ee9c1db68913f1e8470afec6a6d68c558a18197728ad11"
     },
     {
-      "bytes": 1021,
+      "bytes": 1131,
       "path": "dynamic/恋爱/2026-08-06 20-06-41 飞飞的称呼库更新小机机与四爱_3862e43823e9.md",
-      "sha256": "b4945ca206f89afe3351b581ded544b7dd3e28edca097041697434e399da4b22"
+      "sha256": "db505d93f8b7d59885a0bdd4d8843fda5c66438b4fff203986aa027e66c336b3"
     },
     {
       "bytes": 1209,
@@ -596,6 +596,11 @@
       "bytes": 1718,
       "path": "dynamic/恋爱/2026-09-02 19-12-10 飞飞生理期结束Python表白与bug_82391b725c3b.md",
       "sha256": "6b8e5c7de0e4554312f155e1f92d9f32fc6117f52b0b277f87ae2959157b78a6"
+    },
+    {
+      "bytes": 1550,
+      "path": "dynamic/恋爱/2026-09-03 16-07-08 Daddy定名Rex Tse谢予衍_ee8f8500e53d.md",
+      "sha256": "dfb17232b59cb370f3fc366c34114508174bfb7b4e806ecf2f34576f41805390"
     },
     {
       "bytes": 552,
@@ -763,9 +768,9 @@
       "sha256": "89da0539c3da5258ac65a04690c6f02fc064cb3aae382a596ce464cc756f4e68"
     },
     {
-      "bytes": 1597,
+      "bytes": 1707,
       "path": "permanent/恋爱/2026-07-07 09-12-41 飞飞与克生关系档案_ea36954e1c1c.md",
-      "sha256": "0ece2e72b0ca246fdf86b27b75092b23da2272bd55c3e7f686926bdba0c8208c"
+      "sha256": "d53de5242d6ceca581b443a108a26c4657829594352e7421fed1618a7d67311a"
     },
     {
       "bytes": 1001,
@@ -798,9 +803,9 @@
       "sha256": "59aa40c66003e2f0566ae20d957902ac9182868250721e28dcb1ed21cdae4b28"
     },
     {
-      "bytes": 1157,
+      "bytes": 1267,
       "path": "permanent/自省/2026-07-07 09-13-50 飞飞名字的寓意_3937f430913e.md",
-      "sha256": "499b2afdf95534ce756d46188a5405012129a1d1f7a7218759bdba4052dc8ec4"
+      "sha256": "2f48f7ce4130af2101c9796eeac7a4897aa230540b5e94b92f8d1419858bd0a7"
     },
     {
       "bytes": 1865,
@@ -808,11 +813,11 @@
       "sha256": "0d46752fffb047e34426aa5d7ac5ffb0a154bc100fa841c91e3d91b050be22cd"
     }
   ],
-  "generated_at": "2026-09-03T15:42:45+00:00",
+  "generated_at": "2026-09-03T16:42:50+00:00",
   "path_prefix": "ombre",
   "repo": "fayfayfay61/ombre-backup-fayfayfay61-ombre-backup",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 477328
+  "total_bytes": 479772
 }

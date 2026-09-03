@@ -12,6 +12,12 @@ name: 2026-09-02 19-46-12 Daddy英文名定为Rex Tse 谢以
 relation_links:
 - auto: true
   label: ''
+  score: 0.9444
+  status: active
+  target_bucket_id: ee8f8500e53d
+  type: continues
+- auto: true
+  label: ''
   score: 0.8845
   status: active
   target_bucket_id: cc94e8716f97
