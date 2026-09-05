@@ -88,6 +88,11 @@
       "sha256": "0b340cd6be8fa8c92774b217db57f8b382216d5ba2ec214ef176cf75fb2eb239"
     },
     {
+      "bytes": 832,
+      "path": "archive/饮食/2026-07-07 09-06-04 近期饮食与健康_41bcfc000dce.md",
+      "sha256": "38f958b1016cdace5e249315e1df6b048818199b96163bf77f747df642d4bee0"
+    },
+    {
       "bytes": 496,
       "path": "dynamic/AI/2026-07-07 18-21-00 Claude安全设置调整_eff42758450f.md",
       "sha256": "d13080064826f3903b43d3480975c02f79364df69ff59de18b57b3fceba2dfe5"
@@ -728,11 +733,6 @@
       "sha256": "39a24bc5749fdd5c60cd82097ca1c75da170799a011aaa1e2558650395d88c8d"
     },
     {
-      "bytes": 831,
-      "path": "dynamic/饮食/2026-07-07 09-06-04 近期饮食与健康_41bcfc000dce.md",
-      "sha256": "2beedd5eda2412629105b4ea836a34e4cb15852ed241efa0bca9f816820b36b1"
-    },
-    {
       "bytes": 1152,
       "path": "dynamic/饮食/2026-07-07 09-38-25 飞飞与克生的日常_6ee3c4252d3d.md",
       "sha256": "637ffc5b5c72041b5c561d7788d635f15535b1aeeb1203d9d75f1684d1e3b835"
@@ -813,11 +813,11 @@
       "sha256": "0d46752fffb047e34426aa5d7ac5ffb0a154bc100fa841c91e3d91b050be22cd"
     }
   ],
-  "generated_at": "2026-09-05T15:46:42+00:00",
+  "generated_at": "2026-09-05T16:46:47+00:00",
   "path_prefix": "ombre",
   "repo": "fayfayfay61/ombre-backup-fayfayfay61-ombre-backup",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 479772
+  "total_bytes": 479773
 }
