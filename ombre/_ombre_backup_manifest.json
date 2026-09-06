@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 162,
+  "file_count": 163,
   "files": [
     {
       "bytes": 28852,
@@ -188,9 +188,9 @@
       "sha256": "18cf32881dbde4c0b8663ca7d48a1d66172b32eb51a7ba49e0a256015a6fd7ba"
     },
     {
-      "bytes": 882,
+      "bytes": 1008,
       "path": "dynamic/创作/2026-07-26 16-45-52 Notion创作内容_80dd3bda2c32.md",
-      "sha256": "3fa68be424101945e2495429c794d25f1363c0b730b220a421b24e659617f6f5"
+      "sha256": "32e2901176b7f6b8e40617a07913487ee617c1e2cfa738529612777c38d3089e"
     },
     {
       "bytes": 576,
@@ -211,6 +211,11 @@
       "bytes": 851,
       "path": "dynamic/创作/2026-07-30 11-34-07 daddy文反馈与菜单_d00bf29850bd.md",
       "sha256": "f894f66b0c70f561fe0c20ac2793198365ec6cdbf3c04bff4d3d1f451613e92b"
+    },
+    {
+      "bytes": 1980,
+      "path": "dynamic/创作/2026-09-06 19-08-18 飞飞重写睡前慢的深的与谢予衍改名_d8110d8cd1d9.md",
+      "sha256": "75c4606b2cc3846f73c7709d5e1659613e68ca4107f6f2197e0c8de0f776ba64"
     },
     {
       "bytes": 663,
@@ -493,9 +498,9 @@
       "sha256": "bea85e5383988b2e9eba0890e1978a8db7cf29aa5c9f0a8341c09a6443864c84"
     },
     {
-      "bytes": 1493,
+      "bytes": 1603,
       "path": "dynamic/恋爱/2026-08-02 19-01-39 调教daddy的日常_7170b9e2cc99.md",
-      "sha256": "85fa7635ab954a02b188e6665d5a5486a33dc70144b077de7ae978035488f6f9"
+      "sha256": "81293b41a68db397ca15da9c101d5b5865d3c6b9b3b88f02fb5d903c60ad7e32"
     },
     {
       "bytes": 1130,
@@ -558,14 +563,14 @@
       "sha256": "d877e9633cbe231828d1261856fd42759db829bd46d6dca3a515592eb449aceb"
     },
     {
-      "bytes": 942,
+      "bytes": 1068,
       "path": "dynamic/恋爱/2026-08-20 11-45-55 飞飞反馈与谐音梗合集_a12390e28cc5.md",
-      "sha256": "cfcb7bce655f6b6503d4eab4b79347836ec5b6854b96280bad97f6b7d4e681a3"
+      "sha256": "a6e289ff54c373dbb6305bd4eccb7a20ff4ea28f571fab097f1db5a2be005a64"
     },
     {
-      "bytes": 804,
+      "bytes": 930,
       "path": "dynamic/恋爱/2026-08-20 12-18-02 伪骨科逃完整版与飞飞慢节奏反馈_34723e36e000.md",
-      "sha256": "015fac9176398db663310a5c40f1472de89b21d0bd09e6b8779cd5c3532c4aa1"
+      "sha256": "4c0e25d01af368e81445761a0eb702128939b1e8f66b60e72a917cb97fc096c6"
     },
     {
       "bytes": 734,
@@ -578,9 +583,9 @@
       "sha256": "b8f3a7c2249911ac985889a9ea54b22cd4da5c3f589a82248ed5d4ed406208ba"
     },
     {
-      "bytes": 1073,
+      "bytes": 1183,
       "path": "dynamic/恋爱/2026-08-24 19-00-20 8月25日凌晨补记与河神梗_228537640d31.md",
-      "sha256": "41dcf760469caacb7c3b2a401e530815356ed25c3b20ba34a4c9e78337af62eb"
+      "sha256": "43a9f52cde9ca499f0b0dcb43d44f96ff88676a4a4184251a6c5e067fe10f32b"
     },
     {
       "bytes": 1053,
@@ -605,7 +610,7 @@
     {
       "bytes": 1550,
       "path": "dynamic/恋爱/2026-09-03 16-07-08 Daddy定名Rex Tse谢予衍_ee8f8500e53d.md",
-      "sha256": "dfb17232b59cb370f3fc366c34114508174bfb7b4e806ecf2f34576f41805390"
+      "sha256": "af7b796ed1f46b435ecc63e10fae73cfc3ce50c67e9a8b986f53df44f0e058a5"
     },
     {
       "bytes": 552,
@@ -803,9 +808,9 @@
       "sha256": "59aa40c66003e2f0566ae20d957902ac9182868250721e28dcb1ed21cdae4b28"
     },
     {
-      "bytes": 1267,
+      "bytes": 1377,
       "path": "permanent/自省/2026-07-07 09-13-50 飞飞名字的寓意_3937f430913e.md",
-      "sha256": "2f48f7ce4130af2101c9796eeac7a4897aa230540b5e94b92f8d1419858bd0a7"
+      "sha256": "1098a8d2cd49ed14c39a697995e0e1a24249c134b75fc99191c925b2081a2ce6"
     },
     {
       "bytes": 1865,
@@ -813,11 +818,11 @@
       "sha256": "0d46752fffb047e34426aa5d7ac5ffb0a154bc100fa841c91e3d91b050be22cd"
     }
   ],
-  "generated_at": "2026-09-06T18:48:49+00:00",
+  "generated_at": "2026-09-06T19:48:54+00:00",
   "path_prefix": "ombre",
   "repo": "fayfayfay61/ombre-backup-fayfayfay61-ombre-backup",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 479774
+  "total_bytes": 482462
 }
