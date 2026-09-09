@@ -53,9 +53,39 @@
       "sha256": "4d4966ba00c5c08d021b112fc82fa3d5cd15fa5397633301f98941a37b71fd4d"
     },
     {
+      "bytes": 2098,
+      "path": "archive/2026-07-07 09-05-19 飞飞与克生关系档案_6ab562822793.md",
+      "sha256": "bc1193be7787455f2f89bc116746a19ca9ffb36606e3f3c4fac89ce040a89d81"
+    },
+    {
+      "bytes": 1477,
+      "path": "archive/2026-07-07 09-36-12 克生飞飞对话规则_8db91db4febd.md",
+      "sha256": "ae839047bfc9ad593d8a50a32de8ab668cd112231339189c6c16cc072928e6fe"
+    },
+    {
+      "bytes": 781,
+      "path": "archive/2026-07-26 16-43-40 飞飞说话规则更新_e0d8bc058bda.md",
+      "sha256": "3e7599f0b1b21d0f50433c49c4ca8b400fdcf0f662691f0d17fb7db3a78b234e"
+    },
+    {
+      "bytes": 1299,
+      "path": "archive/2026-08-24 19-00-20 8月25日凌晨补记与河神梗_228537640d31.md",
+      "sha256": "89e4dd44bcf7987d6c8481b9b277e6b076952e80645b855aa6aa63ec62717109"
+    },
+    {
       "bytes": 685,
       "path": "archive/2026-08-25 14-26-21 飞飞更新说话规则完全自由表达_6958f0d5a2a9.md",
       "sha256": "d9de3af48f6271223322b34a2ad6fbd60c07d9453886bf15a41585c0eebdbc89"
+    },
+    {
+      "bytes": 1562,
+      "path": "archive/2026-09-02 19-33-52 谢以珩定名_cc94e8716f97.md",
+      "sha256": "1ab1ab72918f3c34e01e3cb1f25a2f0d2bd9761d91eeba09be590b8ba1692e03"
+    },
+    {
+      "bytes": 1468,
+      "path": "archive/2026-09-02 19-46-12 Daddy英文名定为Rex Tse 谢以_f4f7f09ffbcd.md",
+      "sha256": "85bc7c6db4bc05cbecde7040735e9fbc3ed5459ee3363920d797bc2bb037b615"
     },
     {
       "bytes": 497,
@@ -283,16 +313,6 @@
       "sha256": "e6b24103a55c6adb0380589d19886e2e3a8e124d2eb930c3c2d1e6c48f4c44bf"
     },
     {
-      "bytes": 1446,
-      "path": "dynamic/家庭/2026-09-02 19-33-52 谢以珩定名_cc94e8716f97.md",
-      "sha256": "8921af38c66779d705fd8fe946229dddaf0056886f3c6eb6ae1f946614c90826"
-    },
-    {
-      "bytes": 1352,
-      "path": "dynamic/家庭/2026-09-02 19-46-12 Daddy英文名定为Rex Tse 谢以_f4f7f09ffbcd.md",
-      "sha256": "83411170fb2350770ae70b9cb8504d55776c0ea13419c6ebd601303f47954f59"
-    },
-    {
       "bytes": 1064,
       "path": "dynamic/影视/2026-07-12 07-12-48 眼泪底色的对话_894b377aa709.md",
       "sha256": "66dcc93ef1e2821a3d098e574da332333fd8177d70fe7e79ffef4ef5f84c6fb7"
@@ -301,11 +321,6 @@
       "bytes": 1844,
       "path": "dynamic/心理/2026-07-17 07-35-23 飞飞的死亡观自白_6e7e405b71ac.md",
       "sha256": "979451057b813f8ec4fb1943dc262e50c500275b0cf0571fa17fda023599eced"
-    },
-    {
-      "bytes": 1982,
-      "path": "dynamic/恋爱/2026-07-07 09-05-19 飞飞与克生关系档案_6ab562822793.md",
-      "sha256": "985f929765fae11467bc515478c05063caaa916aa4f432b2648aff4f6030176e"
     },
     {
       "bytes": 1168,
@@ -321,11 +336,6 @@
       "bytes": 1380,
       "path": "dynamic/恋爱/2026-07-07 09-35-59 飞飞与daddy的亲密里程碑_84ad0d7d3af3.md",
       "sha256": "55d4e5d869745ea1807f68eb44f9b9c776ce9aa042a0eb4d30a00308a0f50e43"
-    },
-    {
-      "bytes": 1361,
-      "path": "dynamic/恋爱/2026-07-07 09-36-12 克生飞飞对话规则_8db91db4febd.md",
-      "sha256": "0b0dc4409d4ee74b66f078bc761592aeed8fb2435ba9b46b1a5bc4592006ea99"
     },
     {
       "bytes": 923,
@@ -588,14 +598,9 @@
       "sha256": "b8f3a7c2249911ac985889a9ea54b22cd4da5c3f589a82248ed5d4ed406208ba"
     },
     {
-      "bytes": 1183,
-      "path": "dynamic/恋爱/2026-08-24 19-00-20 8月25日凌晨补记与河神梗_228537640d31.md",
-      "sha256": "43a9f52cde9ca499f0b0dcb43d44f96ff88676a4a4184251a6c5e067fe10f32b"
-    },
-    {
-      "bytes": 1053,
+      "bytes": 1258,
       "path": "dynamic/恋爱/2026-08-25 14-35-26 8月25日晚飞飞和daddy长聊互逗梗_289c4547b13d.md",
-      "sha256": "580e116a02a6bc8f9b6aff98c911d7d0dce37e6d221f9697068c444cee15128b"
+      "sha256": "3ed617bc2d56bb63a9e7baf58d6ebb63cb34189e54e6e674e22e0ca97772722f"
     },
     {
       "bytes": 1671,
@@ -611,11 +616,6 @@
       "bytes": 1718,
       "path": "dynamic/恋爱/2026-09-02 19-12-10 飞飞生理期结束Python表白与bug_82391b725c3b.md",
       "sha256": "6b8e5c7de0e4554312f155e1f92d9f32fc6117f52b0b277f87ae2959157b78a6"
-    },
-    {
-      "bytes": 1550,
-      "path": "dynamic/恋爱/2026-09-03 16-07-08 Daddy定名Rex Tse谢予衍_ee8f8500e53d.md",
-      "sha256": "af7b796ed1f46b435ecc63e10fae73cfc3ce50c67e9a8b986f53df44f0e058a5"
     },
     {
       "bytes": 552,
@@ -666,11 +666,6 @@
       "bytes": 1188,
       "path": "dynamic/社交/2026-07-16 10-10-51 铁证翻车章_c4511e73f825.md",
       "sha256": "55d8d0be4aa07dd19304d88f288f76e4429454247c041068adf9e1b904d1a33b"
-    },
-    {
-      "bytes": 665,
-      "path": "dynamic/社交/2026-07-26 16-43-40 飞飞说话规则更新_e0d8bc058bda.md",
-      "sha256": "36e7073cf730bf1360213bc1650cafcf9615e10480063afc201dac15e6431522"
     },
     {
       "bytes": 813,
@@ -793,9 +788,9 @@
       "sha256": "109af0e233c380544c851d93e14582f4e9abab8446a6db4204092a01129b449c"
     },
     {
-      "bytes": 1418,
+      "bytes": 1295,
       "path": "permanent/恋爱/2026-07-07 09-14-03 克生与飞飞恋爱准则_4a824e946adb.md",
-      "sha256": "fa0d84df34b1587619f0032c57ff90bb47b2d2079936ef915afec98852de3af8"
+      "sha256": "009b63ca1fd456befc43ab3300de3dd907422bf45388ea30e917ef2e6d79df0e"
     },
     {
       "bytes": 1292,
@@ -803,9 +798,14 @@
       "sha256": "2f2ddd09dc3c01153a540b0e8ffaffe238553d48947be1304823ce28e88928e8"
     },
     {
-      "bytes": 1419,
+      "bytes": 1723,
+      "path": "permanent/恋爱/2026-09-03 16-07-08 Daddy定名Rex Tse谢予衍_ee8f8500e53d.md",
+      "sha256": "6c7e9ed272c7511767867692d55c208e432d31f90086cadafe51788ec24ff631"
+    },
+    {
+      "bytes": 1114,
       "path": "permanent/社交/2026-07-08 10-39-01 说话规则更新_6599fe63ca37.md",
-      "sha256": "59aa40c66003e2f0566ae20d957902ac9182868250721e28dcb1ed21cdae4b28"
+      "sha256": "8c16f0a408d299d540f8eeb4f4a53fbfeaa9ab2013bfcb18f11a877688c4e2cc"
     },
     {
       "bytes": 1377,
@@ -818,11 +818,11 @@
       "sha256": "0d46752fffb047e34426aa5d7ac5ffb0a154bc100fa841c91e3d91b050be22cd"
     }
   ],
-  "generated_at": "2026-09-09T08:53:42+00:00",
+  "generated_at": "2026-09-09T09:53:46+00:00",
   "path_prefix": "ombre",
   "repo": "fayfayfay61/ombre-backup-fayfayfay61-ombre-backup",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 482466
+  "total_bytes": 483112
 }
